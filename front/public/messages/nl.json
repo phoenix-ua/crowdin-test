@@ -9,5 +9,8 @@
     "U staat op het punt een nieuw dossier aan te maken. Vul de velden hieronder in en klik op ‘Dossier aanmaken’.",
   "createDossierPage.newDossier": "Maak een nieuw dossier",
   "dashboard.new.ComingSoon": "Binnenkort beschikbaar",
-  "dashboard.new.addFiles": "Documenten toevoegen"
+  "dashboard.new.addFiles": "Documenten toevoegen",
+  "magic.bit": "",
+  "magic.byte": "",
+  "magic.megabyte": ""
 }
