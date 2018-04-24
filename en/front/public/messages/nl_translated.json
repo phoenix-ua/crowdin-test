@@ -1,0 +1,13 @@
+{
+  "createDossierPage.dossierForm.createDossier": "Dossier aanmaken",
+  "createDossierPage.dossierForm.dossierName": "Dossier naam",
+  "createDossierPage.dossierForm.dossierName.error": "U dient een dossier naam in te vullen.",
+  "createDossierPage.dossierForm.errorMessage": "We kunnen uw wijzigingen niet opslaan vanwege de volgende fouten:",
+  "createDossierPage.dossierForm.explanation": "U staat op het punt een nieuw dossier aan te maken. Vul de velden hieronder in en klik op ‘Dossier aanmaken’.",
+  "createDossierPage.newDossier": "Maak een nieuw dossier",
+  "dashboard.new.ComingSoon": "Binnenkort beschikbaar",
+  "dashboard.new.addFiles": "Documenten toevoegen",
+  "magic.bit": "",
+  "magic.byte": "",
+  "magic.megabyte": ""
+}
